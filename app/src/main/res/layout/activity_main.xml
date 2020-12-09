@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.martitech.multilinktextview.MultiLinkTextView
+    <com.duranun.multilinktextview.MultiLinkTextView
         android:id="@+id/multiLinkTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

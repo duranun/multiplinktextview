@@ -1,4 +1,4 @@
-package com.martitech.multilinktextview
+package com.duranun.multilinktextview
 
 import android.content.Context
 import android.graphics.Color

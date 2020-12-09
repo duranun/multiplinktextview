@@ -1,4 +1,4 @@
-package com.martitech.multilinktextview
+package com.duranun.multilinktextview
 
 import android.text.TextPaint
 import android.text.style.ClickableSpan

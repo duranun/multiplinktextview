@@ -1,10 +1,10 @@
-package com.martitech.multilinktextview
+package com.duranun.multilinktextview
 
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.martitech.multilinktextview.databinding.ActivityMainBinding
+import com.duranun.multilinktextview.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private val viewBinding: ActivityMainBinding by lazy {

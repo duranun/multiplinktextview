@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="demo_text"><![CDATA[
-     This TextView supports Multiple Links. If you want to use it, you can add link text between <l> </l> tags. Texts between these tags are converted into links. For example <l> Facebook </l>, <l> Twitter </l>, <l> Linkedin </l>
-The click action is sent to the click listener with the link position number. You can switch by link position. For example if(linkPosition ==0) openFacebook()
+     You can visit<l> Facebook </l> or <l> Twitter </l> or <l> Linkedin </l>
     ]]></string>
 </resources>
