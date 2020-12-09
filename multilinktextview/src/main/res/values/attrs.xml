@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiLinkTextView">
+        <attr name="linkTag" format="string"/>
+        <attr name="linkColor" format="reference" />
+        <attr name="linkUnderLine" format="boolean"/>
+        <attr name="linkHighLightColor" format="reference" />
+    </declare-styleable>
+</resources>

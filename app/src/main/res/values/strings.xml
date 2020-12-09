@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="demo_text"><![CDATA[
+ you can visit <l> Facebook </l> or <l> Twitter </l> or  <l> Linkedin </l>
+    ]]></string>
+</resources>
